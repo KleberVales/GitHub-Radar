@@ -28,3 +28,11 @@ A ideia é monitorar e apresentar, de forma visual e interativa, estatísticas s
 
 ---
 
+**Kleber Vales**  
+
+*Back-end Software Engineer*  
+Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate  
+
+Bacharelado em Ciência da Computação  
+MBA em Desenvolvimento de Software 
+
