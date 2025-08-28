@@ -12,7 +12,7 @@ A ideia é monitorar e apresentar, de forma visual e interativa, estatísticas s
 
 ## 🛠️ Tecnologias
 - **Frontend**: React + TailwindCSS + Recharts (gráficos).
-- **Backend**: Node.js/Express (ou Spring Boot no futuro).
+- **Backend**: Java com Spring Boot.
 - **Banco (opcional)**: PostgreSQL ou MongoDB (para cache/armazenamento de estatísticas).
 - **API**: GitHub REST e GraphQL.
 
