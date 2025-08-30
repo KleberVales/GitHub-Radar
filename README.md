@@ -16,12 +16,7 @@ A ideia é monitorar e apresentar, de forma visual e interativa, estatísticas s
 - **Banco (opcional)**: PostgreSQL (para cache/armazenamento de estatísticas).
 - **API**: GitHub REST e GraphQL.
 
-## 🔮 Roadmap inicial
-1. Criar o layout inicial do dashboard.
-2. Consumir a API pública do GitHub para mostrar estatísticas de um usuário.
-3. Adicionar ranking de contribuições em uma organização.
-4. Criar backend para consolidar e armazenar dados.
-5. Implementar autenticação com GitHub OAuth (opcional, para dados privados).
+
 
 
 
