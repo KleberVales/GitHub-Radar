@@ -23,7 +23,6 @@ A ideia é monitorar e apresentar, de forma visual e interativa, estatísticas s
 4. Criar backend para consolidar e armazenar dados.
 5. Implementar autenticação com GitHub OAuth (opcional, para dados privados).
 
-## 📌 Status
-🚧 Projeto em fase inicial – explorando ideias e estrutura do dashboard.
+
 
 
